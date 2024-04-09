@@ -1,3 +1,6 @@
+GRD/
+SLC/
+
 # Byte-compiled / optimized / DLL files
 build/
 .env
